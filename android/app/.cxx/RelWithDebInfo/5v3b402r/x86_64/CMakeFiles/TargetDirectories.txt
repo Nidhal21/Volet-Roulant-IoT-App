@@ -1,0 +1,2 @@
+C:/Users/nidha/volet_roulant_app/android/app/.cxx/RelWithDebInfo/5v3b402r/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/nidha/volet_roulant_app/android/app/.cxx/RelWithDebInfo/5v3b402r/x86_64/CMakeFiles/rebuild_cache.dir
